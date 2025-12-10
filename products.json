@@ -1,0 +1,42 @@
+{
+  "fruits": {
+    "shelf": "Shelf 1 - Fruits",
+    "items": ["fruits","apples", "bananas", "oranges", "grapes", "strawberries", "mangoes", "pineapple", "watermelon"]
+  },
+  "dairy": {
+    "shelf": "Shelf 2 - Dairy Products",
+    "items": ["milk", "cheese", "butter", "yogurt", "cream", "ice cream"]
+  },
+  "bakery": {
+    "shelf": "Shelf 3 - Bakery Items",
+    "items": ["bread", "cakes", "cookies", "muffins", "bagels", "croissants"]
+  },
+  "stationary": {
+    "shelf": "Shelf 4 - Stationery",
+    "items": ["pens", "pencils", "books", "paper", "erasers", "rulers", "staplers", "markers", "highlighters", "scissors", "glue"]
+  },
+  "cleaning": {
+    "shelf": "Shelf 5 - Cleaning Supplies",
+    "items": ["detergent", "soap", "shampoo", "toilet paper", "dishwasher tabs"]
+  },
+  "beverages": {
+    "shelf": "Shelf 6 - Beverages",
+    "items": ["coffee", "tea", "juice", "soda", "energy drinks"]
+  },
+  "snacks": {
+    "shelf": "Shelf 7 - Snacks & Sweets",
+    "items": ["chips", "chocolate", "nuts", "candy", "popcorn","biscuits"]
+  },
+  "frozen": {
+    "shelf": "Shelf 8 - Frozen Foods",
+    "items": ["sausages", "fish", "meat","eggs"]
+  },
+  "vegetables": {
+    "shelf": "Shelf 9 - Vegetables",
+    "items": ["beans", "tuna", "vegetables","carrots", "onions", "potatoes", "broccoli", "spinach", "cucumbers", "bell peppers"]
+  },
+  "spices": {
+    "shelf": "Shelf 10 - Spices & Condiments",
+    "items": ["salt", "pepper", "sugar", "vinegar", "sauce", "ketchup"]
+  }
+}
